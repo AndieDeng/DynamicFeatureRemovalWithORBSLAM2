@@ -26,7 +26,6 @@ We have tested the code with Ubuntu 18.04.
     <img src="videos/3orb_slam2_result.gif" alt="ORB feature extractor">
   </a>
 </div>
-
 <div align="center">
   <a href="https://github.com/AndieDeng/dynamic_feature_removal_ORBSLAM2">
     <img src="videos/4dynamic_feature_removal_result.gif" alt="remove
@@ -35,24 +34,22 @@ We have tested the code with Ubuntu 18.04.
 </div>
 
 <p align="left">
-  <img src="images/1.png" width=350>
-  <img src="images/2.png" width=350>
+  <img src="images/1.png" width=200>
+  <img src="images/3.png" width=200>
+  <img src="images/5.png" width=200>
 </p>
-
 <p align="left">
-  <img src="images/3.png" width=350>
-  <img src="images/4.png" width=350>
-</p>
-
-<p align="left">
-  <img src="images/5.png" width=350>
-  <img src="images/6.png" width=350>
+  <img src="images/2.png" width=200>
+  <img src="images/4.png" width=200>
+  <img src="images/6.png" width=200>
 </p>
 
 ### Execution Steps
 1. Install [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
-2. Replace **src** and **include** folders with the files in this repo
-3. Run
+2. Replace **src** and **include** folders with the files in this repo.
+3. Download [dataset])(https://drive.google.com/drive/u/0/my-drive) and put
+ it within the main directory.
+3. Run:
 ```
 chmod +x build.sh
 ./build.sh
