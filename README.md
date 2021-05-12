@@ -46,7 +46,8 @@ Remove features on dynamic object:
 
 ### Execution Steps
 1. Install [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
-2. Replace **src** and **include** folders with the files in this repo.
+2. Replace **src**, **include**, **Examples** and **CMakeLists.txt**  with the
+ files in this repo.
 3. Download [dataset](https://drive.google.com/file/d/1u1_RCT9D_IK9NRLC6WmBBP8inprQFCbZ/view?usp=sharing) and put
  it within the main directory.
 3. Run:
