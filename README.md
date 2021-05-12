@@ -47,7 +47,7 @@ We have tested the code with Ubuntu 18.04.
 ### Execution Steps
 1. Install [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
 2. Replace **src** and **include** folders with the files in this repo.
-3. Download [dataset])(https://drive.google.com/drive/u/0/my-drive) and put
+3. Download [dataset](https://drive.google.com/drive/u/0/my-drive) and put
  it within the main directory.
 3. Run:
 ```
