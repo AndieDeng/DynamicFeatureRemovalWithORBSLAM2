@@ -74,17 +74,17 @@ You can find that all features on dynamic objects are removed using this code
 ### Future Work
 This [dataset](https://drive.google.com/drive/u/0/my-drive) also contains
  depth and surface normal images and the ground truth pose information. We
-  want to integrate this information with the estimated camera trajectory to
-   reconstruct the voxel map of the
-   environment without the dynamic objects.
-     Reconstructed pointcloud based on the ground truth pose information.
-     <p align="left">
-       <img src="images/7.png" width=250>
-       <img src="images/8.png" width=250>
-     </p>
-     Reconstructed voxel map based on the semantic point-cloud of the
-      environment.
-     <p align="left">
-       <img src="images/9.png" width=250>
-       <img src="images/10.png" width=250>
-     </p>
+  want to integrate depth and semantic information with the estimated camera
+   trajectory to reconstruct the voxel map of the environment without the
+    dynamic objects.
+     
+   Reconstructed pointcloud based on the ground truth pose information.
+   <p align="left">
+     <img src="images/7.png" width=250>
+     <img src="images/8.png" width=250>
+   </p>
+   Reconstructed voxel map based on the semantic point-cloud of the environment.
+   <p align="left">
+     <img src="images/9.png" width=250>
+     <img src="images/10.png" width=250>
+   </p>
