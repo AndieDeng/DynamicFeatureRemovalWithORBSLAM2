@@ -47,7 +47,7 @@ Remove features on dynamic object:
 ### Execution Steps
 1. Install [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
 2. Replace **src** and **include** folders with the files in this repo.
-3. Download [dataset](https://drive.google.com/drive/u/0/my-drive) and put
+3. Download [dataset](https://drive.google.com/file/d/1u1_RCT9D_IK9NRLC6WmBBP8inprQFCbZ/view?usp=sharing) and put
  it within the main directory.
 3. Run:
 ```
@@ -72,7 +72,7 @@ You can find that all features on dynamic objects are removed using this code
  </p>
  
 ### Future Work
-This [dataset](https://drive.google.com/drive/u/0/my-drive) also contains
+This [dataset](https://drive.google.com/file/d/1u1_RCT9D_IK9NRLC6WmBBP8inprQFCbZ/view?usp=sharing) also contains
  depth and surface normal images and the ground truth pose information. We
   want to integrate depth and semantic information with the estimated camera
    trajectory to reconstruct the voxel map of the environment without the
