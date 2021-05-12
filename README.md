@@ -73,7 +73,7 @@ You can find that all features on dynamic objects are removed using this code
  
 ### Future Work
 This [dataset](https://drive.google.com/file/d/1u1_RCT9D_IK9NRLC6WmBBP8inprQFCbZ/view?usp=sharing) also contains
- depth and surface normal images and the ground truth pose information. We
+ depth images and the ground truth pose information. We
   want to integrate depth and semantic information with the estimated camera
    trajectory to reconstruct the voxel map of the environment without the
     dynamic objects.
