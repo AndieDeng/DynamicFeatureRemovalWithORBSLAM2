@@ -1,4 +1,4 @@
-# SLAM Project: Dynamic Object Removal With ORB_SLAM2
+# 16-833 SLAM Project: Dynamic Object Removal With ORB_SLAM2
 **Group members:** Di Deng, Radhika Mohanan, and Samiran Gode
 ### Project Description
 We integrate image segmentation result with [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) to remove extracted ORB
